@@ -1,4 +1,4 @@
-# Mathematical Modeling Ca2+ Dynamics of Dyadic Space using Random walks
+# Modeling Ca2+ Dynamics of Dyadic Space using Random walks
 Project under supervision of D. Sato, Ph.D, Lab Website (https://dsatolab.github.io/Site/), Leighton T. Izu, Ph.D, & Zana Coulibaly, Ph.D. Studying calcium dynamics in the dyadic space using random walks, a stochastic process underlying diffusion. Mathematical modeling. Currently open in projects tab under "__Modeling Calcium Dynamics in the Dyadic Space using Random Walks__".
 
 ## Project Description
