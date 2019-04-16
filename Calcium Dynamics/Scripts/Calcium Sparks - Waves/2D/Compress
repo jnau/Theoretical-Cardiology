@@ -1,0 +1,3 @@
+#!/bin/bash
+
+xz -z -9e -f LocalSR.dat Cyto_concentration.dat RyRLocation.dat LocalCytosol.dat dyad.dat Buffer.dat posx.dat posy.dat State.dat

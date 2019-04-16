@@ -1,0 +1,9 @@
+#!/bin/bash
+
+xz -d LocalCytosol.dat.xz
+xz -d RyRLocation.dat.xz
+xz -d LocalSR.dat.xz
+xz -d Cyto_concentration.dat.xz
+xz -d Buffer.dat.xz
+xz -d dyad.dat.xz
+xz -d State.dat.xz
