@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#g++ -std=c++11 Main.cpp -o RunMe -fopenmp -lm
+make
+./RunMe
+octave Plot_DiffDomain.m
+./Compress
